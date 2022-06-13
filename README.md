@@ -9,4 +9,4 @@
 
 [![Milen's github stats](https://github-readme-stats.vercel.app/api?username=milensski)](https://github.com/milensski/milensski)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=milensski)](https://github.com/milensski/milensski)
+
