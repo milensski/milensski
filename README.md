@@ -7,4 +7,4 @@
 - Due date calculator - live demo https://m-palachorov.w3spaces.com/
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=milensski)](https://github.com/milensski/milensski)
+[![Milen's github stats](https://github-readme-stats.vercel.app/api?username=milensski)](https://github.com/milensski/milensski)
