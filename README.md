@@ -2,6 +2,7 @@
 - 👀 I’m interested in python programming
 - 🌱 I’m currently learning in SoftUni
 - 📫 reach me on feniks9511@gmail.com
+- ♾️ social profile https://www.linkedin.com/in/milen-palachorov-b524b2132/
 
 - Due date calculator - live demo https://m-palachorov.w3spaces.com/
 
