@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning in SoftUni
 - 📫 reach me on feniks9511@gmail.com
 - ♾️ social profile **[LinkedIN](https://www.linkedin.com/in/milen-palachorov-b524b2132/)**
+- 🔥 I'm interested in back-end development and data science
 
 ---
 - __Webscrape_For_News__ - **[live demo](https://replit.com/@milensski/Webscrape#main.py)**
