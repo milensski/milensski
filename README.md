@@ -1,4 +1,6 @@
-<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
+<p align="center"><picture align="center"><img align="center" src = "https://github.com/milensski/milensski/assets/38993490/fd64d928-7ede-4cdd-896c-1a2cc67bec3f"  width = 50px></picture></p>
+
+
 <h1 align="center">Hi 👋, I'm Milen Palachorov</h1>
 <h3 align="center">Passionate IT Student | Python developer</h3>
 
