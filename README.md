@@ -54,13 +54,6 @@
 
 ---
 
-<h3 align="center">Preview screenshots of projects:</h3>
-<p align="center">
-<a href="https://github.com/milensski/web-medical-care"><img src="https://github.com/milensski/milensski/assets/38993490/f66d901f-9a3d-490d-8ae0-d88854ffae95"/></a>
-</p>
-
----
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
