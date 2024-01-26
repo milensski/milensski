@@ -19,8 +19,14 @@
 
 - 🛠 Currently working on **[Cardflow](https://github.com/julkascript/cardflow)**
 
+- ✅Microsoft Data Fundamentals Certified
+<div align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/badges/3c8d8734-fc0f-4a98-a382-d14cd10d6e7e" target="_blank"><img src="https://images.credly.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" style="height: 4rem"/></a>
+</div>
+
 - 📫 How to reach me 
-<div align="center">
+<div align="left" padding=2em>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/milen-palachorov-b524b2132/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 2rem"/></a>
     <a href=mailto:feniks9511@gmail.com target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/google/google-original.svg" style="height: 2rem"/></a>
   </div>
