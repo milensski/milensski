@@ -22,6 +22,7 @@
 - ✅Microsoft Data Fundamentals Certified
 <div align="left">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/badges/3c8d8734-fc0f-4a98-a382-d14cd10d6e7e" target="_blank"><img src="https://images.credly.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" style="height: 4rem"/></a>
+<a href="https://university.atlassian.com/student/award/eAgpdtADenjk9GmhtJBDrHYa" target="_blank"><img src="https://raw.githubusercontent.com/milensski/milensski/53c063080aca155fd232c36955b8c0585358d912/uni-credential-emblem-jirafundamentals.png" style="height: 4rem" /></a>
 </div>
 
 - 📫 How to reach me 
