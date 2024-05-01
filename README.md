@@ -14,7 +14,7 @@
 
   `Full Stack Developer with Angular and Python`
 
-- 🧑‍🎓 I’m a Student at **Softuni**
+- 🧑‍🎓 I’m a Software engineer student
 - 🔥 I'm interested in web development and data engineering
 
 - 🛠 Currently working on **[Cardflow](https://github.com/julkascript/cardflow)**
