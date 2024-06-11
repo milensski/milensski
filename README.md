@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Milen Palachorov</h1>
-<h3 align="center">Passionate IT Student | Python developer </h3>
+<h3 align="center">Passionate IT Student | Full-stack developer </h3>
 
 
 
@@ -10,12 +10,9 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **JS Web**
-
-  `Full Stack Developer with Angular and Python`
 
 - 🧑‍🎓 I’m a Software engineer student
-- 🔥 I'm interested in web development and data engineering
+- 🔥 I'm interested in `web development` `data engineering` `network engineering`
 
 - 🛠 Currently working on **[Cardflow](https://github.com/julkascript/cardflow)**
 
